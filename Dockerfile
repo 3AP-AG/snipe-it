@@ -18,6 +18,7 @@ libapache2-mod-php8.1 \
 php8.1-curl \
 php8.1-ldap \
 php8.1-mysql \
+php8.1-pgsql \
 php8.1-gd \
 php8.1-xml \
 php8.1-mbstring \
@@ -32,6 +33,7 @@ vim \
 git \
 cron \
 mysql-client \
+postgresql \
 supervisor \
 cron \
 gcc \
